@@ -1,0 +1,13 @@
+
+
+client_id: VJgQL+6DBigGGVoIV3DSRHUfUPxQj8/DkUr34frV5SQat60GM+fN45+r/Jw9csYYhhqS4kLoaUKz/IOSUv+97XKBgeFgLGVRvxaZZ7yx3b/9RVdwZuX80yFyLafkZ0zuqTIQlxkKjsm7Eq2amf0hv1o=
+
+
+client_secret: AD7F25810947A0FDF0A98BE8C12624C354CA5BBFAD333E2B44D46F7271A815FEUsername: etl.api.only@360.one.amcuat
+
+Password: etl360one
+
+Domain: https://360one--wealthuat.sandbox.my.salesforce.com
+
+Auth url: https://test.salesforce.com/services/oauth2/token
+
